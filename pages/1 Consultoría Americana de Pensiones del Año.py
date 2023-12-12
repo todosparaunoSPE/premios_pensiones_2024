@@ -11,7 +11,7 @@ import streamlit as st
 
 
 
-st.title(f"Consultoría Europea de Pensiones del Año 2024")
+st.title(f"Consultoría Americana de Pensiones del Año 2024")
 
 st.subheader("")
 st.subheader("")
